@@ -12,6 +12,8 @@ List of Web Component used from #material-ui
 * Checkbox
 * Snackbar
 * FlatButton
+* FloatingActionButton
+* RaisedButton
 
 
 ** Note : we are no way related to actaul WhatsApp.com **
